@@ -1,3 +1,5 @@
+Vous trouverez sur cette page des documents de cours.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/blor-study/benlor.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
