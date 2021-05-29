@@ -1,4 +1,4 @@
-Vous trouverez sur cette page des documents de cours.
+Vous trouverez sur cette page (avant septembre) des documents de cours que j'ai eus à l'Ensai entre 2017 et 2020.
 
 ## Welcome to GitHub Pages
 
