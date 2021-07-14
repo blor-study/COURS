@@ -4,6 +4,7 @@ Vous trouverez sur cette page (avant septembre) des documents de cours que j'ai 
 ## Première année
 
 ### Premier semestre
+- [Probabilités discrètes et calcul intégral (ancien cours)](tt)
 - Intégration
 - Probabilités générales
 - Bases de données relationnelles
