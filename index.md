@@ -4,7 +4,7 @@ Vous trouverez sur cette page (avant septembre) des documents de cours que j'ai 
 ## Première année
 
 ### Premier semestre
-- [Probabilités discrètes et calcul intégral (ancien cours)](https://github.com/blor-study/Ensai/blob/aa4cc6ecdc012388218a242efbe38b4f016dda11/poly_stat1ies2014-2015.pdf)
+- [Probabilités discrètes et calcul intégral (ancien cours)](https://blor-study.github.io/Ensai/poly_stat1ies2014-2015.pdf)
 - Intégration
 - Probabilités générales
 - Bases de données relationnelles
