@@ -30,7 +30,7 @@ Certains polycopiés de cours sont des anciennes versions. Je les mets car je le
 - Séries temporelles
 - Régression sur variables catégorielles
 - Apprentissage supervisé
-- [Théorie des sondages](https://github.com/blor-study/Ensai/blob/e36b24780be3d466e57710aeae45c97ed2f6b45f/Ensai-S4-Th%C3%A9orie%20des%20sondages.pdf)
+- [Théorie des sondages](https://github.com/blor-study/Ensai/blob/9d2715d47f9108ab69bc4da78be18e739bc7efe4/Ensai%20-%20S4%20-%20Th%C3%A9orie%20des%20sondages.pdf)
 - Théorie microéconomique
 
 ### Deuxième semestre
