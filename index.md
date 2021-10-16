@@ -2,8 +2,6 @@ Vous trouverez sur cette page (avant septembre) des documents de cours que j'ai 
 
 Certains polycopiés de cours sont des anciennes versions. Je les mets car je les trouve très bonnes.
 
-***Tiphaine**, tu es la seule à connaître cette page. Je te fais une fleur en te la communiquant. Merci de ne jamais la communiquer à quiconque.*
-
 
 ## Première année
 
