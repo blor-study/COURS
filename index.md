@@ -9,6 +9,7 @@ Certains polycopiés de cours sont des anciennes versions. Je les mets car je le
 - [Probabilités discrètes et calcul intégral (ancien cours)](https://blor-study.github.io/Ensai/poly_stat1ies2014-2015.pdf)
 - Intégration
 - Probabilités générales
+- Cours de probabilités
 - Bases de données relationnelles
 - Modélisation microéconomique
 
